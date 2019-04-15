@@ -1,0 +1,27 @@
+{
+  "baseURL": "http://www.weikeyan.cn",
+  "languageCode": "zh-cn",
+  "title": "微课研",
+  "theme": "hugo-fresh",
+  "params": {
+    "navbarlogo": {
+      "image": "",
+      "link": "/"
+    },
+    "font": {
+      "name": "Open Sans",
+      "sizes": [
+        400,
+        600
+      ]
+    },
+    "hero": {
+      "title": "微课研",
+      "subtitle": "经管实验研究与教学平台",
+      "buttontext": "Get started",
+      "buttonlink": "https://www.ancademy.org/v5",
+      "image": "illustrations/worker.svg",
+      "beian": "鄂ICP备14008767号-5"
+    }
+  }
+}

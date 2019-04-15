@@ -1,0 +1,9 @@
+{{- $hero        := .Site.Params.hero }}
+{{- $beian := index $hero "beian" }}
+<div class="hero-foot mb-20">
+  <div class="container">
+    <div class="tabs is-centered">
+      {{ $beian }}
+    </div>
+  </div>
+</div>
